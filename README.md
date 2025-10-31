@@ -1,4 +1,5 @@
-🍏 BlinkIT Grocery Sales Analysis – Power BI Project
+🍏 BlinkIT Grocery Sales Analysis – Power BI Project 
+Link - https://app.powerbi.com/view?r=eyJrIjoiNTRmMGE4ZTktZWRkOS00NGE5LWEwYjYtNGM4MDRmYTlkMGU2IiwidCI6ImZiMTdhNjcwLTIwMzYtNDhkZC04MTlmLTM5NTY4ZjlkY2JkNCJ9
 📌 Project Overview
 
 This project is an end-to-end data analysis case study on BlinkIT (online grocery platform).
